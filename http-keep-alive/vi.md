@@ -1,0 +1,1 @@
+Trong HTTP 1.1 có 1 header được bật sẵn, đó là Connection: keep-Alive. Header này được dùng bởi client để thông báo cho server biết client này muôn giữ kết nối TCP/IP bên dưới để có thể tái sử dụng cho những request sau đó, tránh việc lãng phí tài nguyên cũng như 
